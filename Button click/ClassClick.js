@@ -12,7 +12,7 @@ clickHandler()
         return (
             <div>
                 <button onClick = {this.clickHandler }>Click Me</button>
-            </div>
+            </div> 
         )
     }
 }
